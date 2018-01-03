@@ -1,1 +1,30 @@
-1.No chyba mam dostęp wojtuś 
+1.
+2.D
+3. D
+4. C
+5. C
+6. C
+7. D
+8.B
+9. B
+10. D
+11. D 
+12. A
+13. D
+14. D
+15. C, poniewa¿ nie ma break; pomiêdzy kolejnymi case
+16. C
+17. B
+18. D
+19. C
+20. B
+21. A, poniewa¿ zmienne final musz¹ zostaæ zainicjalizowane
+22.B
+23.A, poniewa¿ zmienna i jest widoczna jedynie w metodzie met
+24. C
+25. D, poniewa¿ nie istnieje konstruktor przyjmuj¹cy byte[] za argument. OdpowiedŸ B jest prawid³owa, poniewa¿ host zapisany jako null jest równoznaczny z wywo³aniem InetAddress.getByName(null), co zwraca 127.0.0.1
+26. B,C
+27.D
+28.C
+29.B
+30. D
