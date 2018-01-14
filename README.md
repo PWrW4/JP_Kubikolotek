@@ -1,1 +1,1 @@
-Odpowiedzi do pyta≈Ñ podanych przez dr in≈º. Tomasz Kubik
+Odpowiedzi do pytaÒ podanych przez dr inø. Tomasz Kubik (01.2018)
