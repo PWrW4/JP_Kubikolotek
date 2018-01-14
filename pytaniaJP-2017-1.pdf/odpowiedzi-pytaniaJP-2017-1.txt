@@ -5,5 +5,6 @@
 5.
 6.
 7.D
+8.D
 
 29.C 9 (UWAGA! getHost() nie jest zakleciem. Tak naprawde wycina fragment wejscia. getHost("http://pwr.edu.pl/index.html") zwróci pwr.edu.pl. getHost("http://192.168.0.1") zwróci 192.168.0.1. Równiez wazny jest protokól (http) jak i cudzyslów (konstruktor URL przyjmuje String).)
