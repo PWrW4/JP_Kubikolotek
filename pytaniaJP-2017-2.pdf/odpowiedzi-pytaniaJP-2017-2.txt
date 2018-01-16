@@ -1,1 +1,30 @@
-1.
+1.D?
+2.A
+3.A
+4.A
+5.A
+6.B
+7.C
+8.D
+9.A
+10.C
+11.D
+12.B
+13.C
+14.A
+15.A ocb
+16.A
+17.A ee?
+18.C
+19 xd chyba d
+20.D
+21.D
+22.C
+23.D Error:(11, 13) java: unexpected type
+  required: reference
+  found:    double		(b.pole niby nie moze byc double)
+24.A
+25.B inner classes cannot have static declarations
+26.B
+27.C
+
